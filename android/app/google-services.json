@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "179927113776",
+    "firebase_url": "https://mockapp-53cec.firebaseio.com",
+    "project_id": "mockapp-53cec",
+    "storage_bucket": "mockapp-53cec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179927113776:android:eb2146a3782a5e10",
+        "android_client_info": {
+          "package_name": "com.example.superciti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179927113776-3i65be11drv9f4j8decubt0u0eaupt9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.superciti",
+            "certificate_hash": "acfe58be357385b721ee9d1e0ce94303e9c4b82b"
+          }
+        },
+        {
+          "client_id": "179927113776-q6gma7rhftl4b1m4umb0025revbtk26n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDevTJ2ZSFzxm4VIRrrYNRpZJHB58xmfIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179927113776-q6gma7rhftl4b1m4umb0025revbtk26n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
